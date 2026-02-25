@@ -5,12 +5,13 @@
 -->
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning about life
+- 📫 How to reach me: <a href="www.linkedin.com/in/infopks">Linkedin</a>
 <!--
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: <a href="www.linkedin.com/in/infopks">Linkedin</a>
+
 <!--
 //- 😄 Pronouns: ...
 //- ⚡ Fun fact: ...
